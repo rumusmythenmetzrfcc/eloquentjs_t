@@ -1,0 +1,23 @@
+{
+  "name": "c7_a-robot",
+  "version": "1.0.0",
+  "description": "equolentjs_project",
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "license": "ISC",
+  "author": "PML",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine",
+    "lintall": "eslint src/js/"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.23.0",
+    "eslint": "^9.23.0",
+    "globals": "^16.0.0",
+    "jasmine": "^5.6.0"
+  } 
+}
